@@ -13,6 +13,9 @@ This project simulates a cybersecurity access control audit to evaluate user per
   - Access Level
   - Issue
   - Risk Level
+ 
+  <img width="676" height="438" alt="Dataset Employee Project" src="https://github.com/user-attachments/assets/fc1dd0bd-e961-4f84-9831-c87fbcfc70dd" />
+
 
 ## ⚙️ Analysis Performed
 - Reviewed user roles and permissions
