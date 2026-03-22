@@ -22,6 +22,9 @@ This project simulates a cybersecurity access control audit to evaluate user per
 - Identified overprivileged accounts
 - Classified risks into High, Medium, and Low categories
 
+  <img width="1263" height="442" alt="image" src="https://github.com/user-attachments/assets/a035e980-8d2b-48e6-bb01-2e662a57fc02" />
+
+
 ## 📈 Summary of Findings
 - Total Users: 20  
 - High Risk Issues: 4  
